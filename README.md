@@ -9,13 +9,9 @@ Additional dependencies may be required, such as gcc-arm-linux-gneabihf and g++-
 Administrator Priviledges are required. Enter "sudo make" into the terminal.
 
 Useful Links:
- - [1]
- - [2]
- - [3]
+ - [https://bitbucket.org/chromiumembedded/cef/wiki/BranchesAndBuilding]
+ - [https://github.com/chromiumembedded/cef/]
+ - [https://opensource.spotify.com/cefbuilds/index.html#linuxarm_builds]
 
 The script is a work in progress. To contribute, please fork this git repository and make changes locally.
 I hope you find this useful - Alastair Cota
-
-[1]: https://bitbucket.org/chromiumembedded/cef/wiki/BranchesAndBuilding
-[2]: https://github.com/chromiumembedded/cef/
-[3]: https://opensource.spotify.com/cefbuilds/index.html#linuxarm_builds
